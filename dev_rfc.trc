@@ -1,0 +1,32 @@
+
+**** ERROR file opened at 20160215 140800 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:4312 Error in program 'vb6': <* RfcGetCodePagesInfo [4294967294] : returns 18:RFC_INVALID_HANDLE
+>TS> Mon Feb 15 14:08:02 2016
+T:4312 Error in program 'vb6': <* RfcGetCodePagesInfo [4294967294] : returns 18:RFC_INVALID_HANDLE
+
+**** ERROR file opened at 20160216 084221 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5132 Error in program 'SAPCPIC': <* RfcGetCodePagesInfo [4294967294] : returns 16:RFC_NOT_INITIALIZED
+
+**** ERROR file opened at 20160216 084258 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5132 Error in program 'SAPCPIC': rfcClose [4294967294]: not initalized !!!
+
+**** ERROR file opened at 20160216 141012 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5744 Error in program 'SAPCPIC': <* RfcGetCodePagesInfo [4294967294] : returns 16:RFC_NOT_INITIALIZED
+>TS> Tue Feb 16 14:10:13 2016
+T:5744 Error in program 'SAPCPIC': rfcClose [4294967294]: not initalized !!!
+T:5744 Error in program 'SAPCPIC': <* RfcGetCodePagesInfo [4294967294] : returns 16:RFC_NOT_INITIALIZED
+
+**** ERROR file opened at 20160216 141847 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5744 Error in program 'SAPCPIC': rfcClose [4294967294]: not initalized !!!
+
+**** ERROR file opened at 20160223 134021 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:6888 Error in program 'vb6': <* RfcGetCodePagesInfo [4294967294] : returns 18:RFC_INVALID_HANDLE
+
+**** ERROR file opened at 20160310 084413 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:7540 Error in program 'SAPCPIC': <* RfcGetCodePagesInfo [4294967294] : returns 16:RFC_NOT_INITIALIZED
+>TS> Thu Mar 10 08:44:14 2016
+T:7540 Error in program 'SAPCPIC': rfcClose [4294967294]: not initalized !!!
+T:7540 Error in program 'SAPCPIC': <* RfcGetCodePagesInfo [4294967294] : returns 16:RFC_NOT_INITIALIZED
+
+**** ERROR file opened at 20160310 084526 SE Asia Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:7540 Error in program 'SAPCPIC': rfcClose [4294967294]: not initalized !!!
